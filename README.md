@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/raahemsyed">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Raahem" alt="Hello! I&#39;m Raahem" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Raahem" alt="Hello! I&#39;m Raahem" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Software%20Engineering%20%40%20Carleton%20University;Building%20software%2C%20AI%2C%20and%20systems%20that%20solve%20real%20problems" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=44&lines=Software%20Engineering%20%40%20Carleton%20University;Building%20software%2C%20AI%2C%20and%20systems%20that%20solve%20real%20problems" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -61,15 +61,18 @@ Software Engineering student @ Carleton University. I build full-stack, AI, and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=raahemsyed&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=raahemsyed&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=raahemsyed&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=raahemsyed&layout=compact&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=raahemsyed&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=raahemsyed&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/raahemsyed">raahemsyed</a></i></p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/raahemsyed">raahemsyed</a></i>
+</p>
