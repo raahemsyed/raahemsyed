@@ -32,7 +32,7 @@ Always open to interesting projects, collaborations, and conversations.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
     <a href="https://www.tabayyun.net/">
-    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Tabayyun Website">
+    <img src="https://img.shields.io/badge/Tabayyun-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Tabayyun Website">
   </a>
   <a href="https://www.alayrix.com/">
     <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Alayrix Website">
