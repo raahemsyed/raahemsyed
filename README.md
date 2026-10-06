@@ -32,13 +32,13 @@ Always open to interesting projects, collaborations, and conversations.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
     <a href="https://www.tabayyun.net/">
-    <img src="https://img.shields.io/badge/TabayyunWebsite-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Tabayyun Website">
+    <img src="https://img.shields.io/badge/Tabayyun-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Tabayyun Website">
   </a>
   <a href="https://www.alayrix.com/">
-    <img src="https://img.shields.io/badge/AlayrixWebsite-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Alayrix Website">
+    <img src="https://img.shields.io/badge/Alayrix-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Alayrix Website">
   </a>
   <a href="https://www.raahemsyedbooks.com/">
-    <img src="https://img.shields.io/badge/RaahemSyedBooksWebsite-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RaahemSyedBooks Website">
+    <img src="https://img.shields.io/badge/RaahemSyedBooks-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RaahemSyedBooks Website">
   </a>
 </p>
 
